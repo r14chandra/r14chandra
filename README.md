@@ -3,7 +3,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=r14chandra&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=r14chandra&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=r14chandra&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=r14chandra&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <!--
 **r14chandra/r14chandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
